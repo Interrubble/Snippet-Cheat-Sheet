@@ -83,6 +83,6 @@ code {
 
 @media screen and (max-width:768px) {
     .card {
-        width:50%;
+        width:100%;
     }
 }
